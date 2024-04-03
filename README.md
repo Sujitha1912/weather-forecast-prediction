@@ -7,7 +7,7 @@ While The Weather Channel was the most accurate for the low-temperature forecast
 ## Problem Statement
 As a new intern of ForecastWatch, to design, implement and present from a sample data warehouse to show its model and applications to a media client in Dallas who want to use your data in the local TV news.
 
-##Challenges
+## Challenges
 ### Data Collection
 To predict the weather is limited by three factors: 
 the amount of available data; 
